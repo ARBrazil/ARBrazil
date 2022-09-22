@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ARBrazil
 - 👀 I’m interested in customer success, data, and weight lifting 
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to meet others interested in Java 
+- 📫 How to reach me is by email at Abrazil1922@gmail.com
 
 <!---
 ARBrazil/ARBrazil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
